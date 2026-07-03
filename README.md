@@ -1,3 +1,7 @@
+> **This fork** — David Chen's copy. My role on this 4-person project: dataset provisioning & management, literature review, experiment tracking, and the technical writeup. More at [tianle-chen.com](https://tianle-chen.com/work/3t3d-vit-2d-to-3d). *Original team README below.*
+
+---
+
 # 3T3D - A Vision Transformer Based 2D to 3D Model
 ## Overview
 Our final project for 11-685, Introduction to Deep Learning was a long, arduous one, but a huge learning opportunity. I was extremely fortunate to be on a team with 3 very passionate and patient folks (Chia, David, Karthick) for whom I'm forever indebted for their long hours and thoughtful feedback.
